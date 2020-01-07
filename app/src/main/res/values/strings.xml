@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Audio Recording App</string>
+    <string name="record_saved_toast_msg">Record saved:</string>
+    <string name="title_activity_fragment_container">FragmentContainerActivity</string>
+    <string name="record_tab_label">Record new memo</string>
+    <string name="memos_tab_label">Saved memos</string>
+    <string name="permission_preferences">permission_preferences</string>
+
+</resources>
